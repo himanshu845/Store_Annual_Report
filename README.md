@@ -1,5 +1,5 @@
 # Store_Annual_Report!
-Armed with my Excel skills and a desire to showcase the power of data analysis, I designed an intuitive and visually appealing dashboard that allows stakeholders to explore the data in an engaging way. 
+ I made a visually appealing dashboard that allows stakeholders to explore the data in an engaging way. 
 
 The dashboard brings clarity to the store's performance metrics, identifies trends, and highlights areas for improvement. It's like having a comprehensive snapshot of the store's operations at your fingertips!
 
